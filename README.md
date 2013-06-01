@@ -11,4 +11,4 @@ Therefore I have written this python library. It uses clib so will not work on a
 
 Hope it is useful.
 
-©2012 Richard Delorenzi. Licence Gnu Gpl version 3, or later.
+©2013 Richard Delorenzi. Licence Gnu Gpl version 3, or later.
